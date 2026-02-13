@@ -1,0 +1,8 @@
+Public Class Circle extends Shape {
+    int radius;
+
+    public Circle(int x, int y, int radius) {
+        super(x, y);
+        this.radius = radius;
+    }
+}
